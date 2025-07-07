@@ -640,6 +640,9 @@ margin-top: 30px;
 }
 
 .project-item {
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between;
   max-width: 500px;
 }
 
